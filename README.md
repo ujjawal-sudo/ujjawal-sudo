@@ -1,3 +1,7 @@
+<p align="center">
+      <img width="359" height="311" alt="image" src="https://github.com/user-attachments/assets/de0fb91e-6566-4465-bae3-88716c2ce5f3" />
+</p>
+
 # Hi 👋, I'm Ujjwal Upadhyay
 ### 💻 Full-Stack Developer from the Spiritual Capital, Banaras 🔱
 
@@ -12,22 +16,13 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Node.js](https://shields.io) ![MongoDB](https://shields.io)
 
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" alt="Ujjwal's GitHub Stats" />
-</p>
 
-<p align="left">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
+![Ujjawal's GitHub Stats](https://vercel.app)
+
+![Profile Views](https://komarev.com)
