@@ -2,7 +2,7 @@
       <img width="359" height="311" alt="image" src="https://github.com/user-attachments/assets/de0fb91e-6566-4465-bae3-88716c2ce5f3" />
 </p>
 
-# Hi 👋, I'm Ujjwal Upadhyay
+# Hi 👋, I'm Ujjawal Upadhyay
 ### 💻 Full-Stack Developer from the Spiritual Capital, Banaras 🔱
 
 ---
